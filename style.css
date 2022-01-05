@@ -8,3 +8,7 @@ a{
 li{
     list-style: square;
 }
+
+h1{
+    font-size: 50px;
+}
