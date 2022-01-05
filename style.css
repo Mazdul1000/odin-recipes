@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 28px;
+    color: orangered;
+}
+
+li{
+    list-style: square;
+}
